@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Contains:
 
 - Java Lab Programs
